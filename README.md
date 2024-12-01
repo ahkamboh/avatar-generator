@@ -2,6 +2,11 @@
 
 A magical AI-powered avatar generator that transforms text descriptions into stunning, personalized digital avatars. Built with Next.js and integrated with advanced AI models.
 
+**Prompt**: *`Create a 3D  avatar of a smiling man with brown skin, black beard, red turban, red kurta, brown shawl, warm brown eyes, on a soft red gradient background`*
+
+### OUTPUT 
+![WhatsApp Image 2024-12-01 at 12 23 58_6abb2306](https://github.com/user-attachments/assets/a0560e01-2ee0-495c-b96b-fe5e80d56d50)
+
 ## ✨ Features
 
 - Text-to-avatar generation
